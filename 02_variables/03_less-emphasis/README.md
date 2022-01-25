@@ -7,6 +7,7 @@
 + Run `go run declare-variable.go`
 + Run `go run declare-multiple-variables.go`
 + Run `go run declare-multiple-integer.go`
++ Run `declare-infer-type-variable.go`
 
 
 ### Output
@@ -23,4 +24,10 @@ Hello World! 1 0 0
 3. declare-multiple-integer.go
 ```
 Hello World! 1 2 3
+
+```
+4. declare-infer-type-variable.go
+```
+Hello World! 4 5 6
+
 ```
