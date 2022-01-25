@@ -7,7 +7,7 @@
 + Run `go run shorthand.go`
 
 
-### Description
+### Output
 1. shorthand.go
 ```
 10 
