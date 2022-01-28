@@ -17,5 +17,6 @@
 2. name-main.go
 ```
 Punith
+Punith
 Future Rock Star Programmer
 ```
