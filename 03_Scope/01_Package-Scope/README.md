@@ -5,7 +5,7 @@
 
 ### To execute the project:
 + Run `go run declare-multiple-function.go`
-+ Run `go run declare-multiple-variables.go`
++ Run `go run name-main.go`
 
 
 ### Output
@@ -13,4 +13,9 @@
 ```
 42
 42
+```
+2. name-main.go
+```
+Punith
+Future Rock Star Programmer
 ```

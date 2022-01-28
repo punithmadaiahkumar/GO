@@ -5,4 +5,4 @@
 | :-------------:   |:-------------|
 | 01                | Getting Started                                    |
 | 02                | Variables                                          |
-
+| 03                | Scope                                              |
