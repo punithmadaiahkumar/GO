@@ -7,6 +7,7 @@
 + Run `go run helloworld.go`
 + Run `go run user-defined-types.go`
 + Run `go run constants.go`
++ Run `go run pointers.go`
 
 ### Output or Screenshot:
 1. `helloworld.go`
@@ -33,4 +34,13 @@ Go
 2 3 4
 0 1 2
 0 1 2
+```
+
+4. `pointers.go`
+```
+Hello World
+0xc000088220
+Hello World
+Welcome to the Go world!
+Welcome to the Go world!
 ```
