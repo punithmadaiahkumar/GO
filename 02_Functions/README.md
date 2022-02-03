@@ -7,7 +7,7 @@
 + Run `go run functions.go`
 + Run `go run function1.go`
 + Run `go run function-return1.go`
-+ Run `go run pointers.go`
++ Run `go run function-return-n.go`
 
 ### Output or Screenshot:
 1. `function.go`
@@ -39,17 +39,8 @@ Welcome to Go world! Punith Gowda
 Welcome to Go world!, Punith Gowda (Punith)
 ```
 
-4. `pointers.go`
+4. `funtion-return-n.go`
 ```
-Go is concurrent
-Go is awesome
-Number of parameters:  3
-
-Welcome to Go world! Punith Gowda You are authorize to access the system: Punith
-Go is concurrent
-Go is awesome
-Number of parameters:  3
-
 Welcome to Go world! Punith Gowda
- You are authorize to access the system: Punith
+You are authorize to access the system: Punith
 ```
