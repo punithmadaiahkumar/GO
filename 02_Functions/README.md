@@ -5,7 +5,7 @@
 
 ### How to Execute:
 + Run `go run functions.go`
-+ Run `go run user-defined-types.go`
++ Run `go run function1.go`
 + Run `go run constants.go`
 + Run `go run pointers.go`
 
@@ -19,14 +19,19 @@ Number of parameters:  3
 Welcome to Go world! Punith Gowda
 You are authorize to access the system: Punith
 ```
-2. `user-definned-types.go`
+2. `function1.go`
 ```
-Unknown
-Welcome
-Punith
-Hello!
-Punith Gowda
-Hello Go!
+Go is concurrent
+Go is awesome
+Number of parameters:  3
+
+Welcome to Go world! Punith Gowda You are authorize to access the system: Punith
+Go is concurrent
+Go is awesome
+Number of parameters:  3
+
+Welcome to Go world! Punith Gowda
+ You are authorize to access the system: Punith
 ```
 
 3. `constants.go`
@@ -40,9 +45,15 @@ Go
 
 4. `pointers.go`
 ```
-Hello World
-0xc000088220
-Hello World
-Welcome to the Go world!
-Welcome to the Go world!
+Go is concurrent
+Go is awesome
+Number of parameters:  3
+
+Welcome to Go world! Punith Gowda You are authorize to access the system: Punith
+Go is concurrent
+Go is awesome
+Number of parameters:  3
+
+Welcome to Go world! Punith Gowda
+ You are authorize to access the system: Punith
 ```
