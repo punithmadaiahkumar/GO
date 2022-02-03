@@ -6,7 +6,7 @@
 ### How to Execute:
 + Run `go run functions.go`
 + Run `go run function1.go`
-+ Run `go run constants.go`
++ Run `go run function-return1.go`
 + Run `go run pointers.go`
 
 ### Output or Screenshot:
@@ -34,13 +34,9 @@ Welcome to Go world! Punith Gowda
  You are authorize to access the system: Punith
 ```
 
-3. `constants.go`
+3. `function-return1.go`
 ```
-3.14
-Go
-2 3 4
-0 1 2
-0 1 2
+Welcome to Go world!, Punith Gowda (Punith)
 ```
 
 4. `pointers.go`
