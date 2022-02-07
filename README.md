@@ -5,4 +5,4 @@
 | :-------------:   |:-------------|
 | 01                | Variables, Types, Pointers and Constants      |
 | 02                | Functions      |
-| 02                | Branching      |
+| 03                | Branching      |
