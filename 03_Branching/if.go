@@ -9,4 +9,4 @@ func main() {
 	/**
 	 * Call the function and pass the data to the function
 	 */
-	greeting.Greeting(github, greeting.CreatePrintFunction("?"), false)
+	greeting.Greeting(github, greeting.CreatePrintFunction("!"), false)

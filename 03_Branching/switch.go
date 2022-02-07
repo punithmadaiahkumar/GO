@@ -9,5 +9,5 @@ func main() {
 	/**
 	 * Call the function and pass the data to the function
 	 */
-	greet.Greet(github, greet.CreatePrintFunction("?"), true)
+	greet.Greet(github, greet.CreatePrintFunction("!"), true)
 }
