@@ -11,8 +11,8 @@
 + Run `go run range.go`
 
 ### Output or Screenshot:
-1. for.go
-    ![FOR LOOP](op1.png)
-
-2. while.go
-    ![WHILE LOOP](op2.png)
+![for](op1.png)
+![while](op2.png)
+![break](op3.png)
+![continue](op4.png)
+![range](op5.png)
